@@ -1,3 +1,3 @@
 # Quizme
 
- Full stack Quizzes management app ( built in 6H for a friend) ) 
+ Full stack Quizzes management app with admin panel ( built in 8H for a friend) ) 
